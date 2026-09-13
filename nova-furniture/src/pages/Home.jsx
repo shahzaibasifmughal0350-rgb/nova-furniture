@@ -15,7 +15,7 @@ const CATEGORY_ITEMS = [
   {
     title: "Plastic Chairs",
     description: "Durable and practical chairs for homes, businesses, events, and everyday use.",
-    image: "/images/category-plastic-chairs.jpg",
+    image: "C:\Users\DELL\Desktop\nova-furniture\public\images",
     to: "/products?category=plastic-chairs",
   },
   {
